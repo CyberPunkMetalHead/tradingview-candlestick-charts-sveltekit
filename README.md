@@ -1,4 +1,4 @@
-## Developing
+## Simple Web app using TradingView Charts and Sveltekit
 
 Once you've cloned the repo install dependencies with `npm install` (or `pnpm install` or `yarn`), 
 
